@@ -8,3 +8,5 @@ Contributors Guide:
 ===================
 
 Just fork the repo and send me pull request
+
+Good work!
